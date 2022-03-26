@@ -1,0 +1,9 @@
+[package]
+name = "rust-2d-ecs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ggez = "0.7"
+glam = "0.20"
+hecs = "0.7"
